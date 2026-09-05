@@ -4,10 +4,10 @@ Modules:
 
 - `waterframes.lua` - wrapper for the [WaterFrames Computercraft Compat](https://modrinth.com/mod/waterframes-computercraft-compat)
   peripheral (the media display)
-- `jellyfin.lua` — shitty Jellyfin REST client
-- `ersatz.lua` — Ersatz URL client: resolves channel from base ersatz url, displays on media display and shows xmltv EPG on create display board (CC:C Bridge)
-- `displayboard.lua` — wrapper for a CC:C Bridge source block linked to a create display board
-- `cinemaconfig.lua` — shared settings file
+- `jellyfin.lua` - shitty Jellyfin REST client
+- `ersatz.lua` - Ersatz URL client: resolves channel from base ersatz url, displays on media display and shows xmltv EPG on create display board (CC:C Bridge)
+- `displayboard.lua` - wrapper for a CC:C Bridge source block linked to a create display board
+- `cinemaconfig.lua` - shared settings file
 
 Programs (run these):
 
